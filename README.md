@@ -43,3 +43,4 @@ To conclude, Task 2 gave me practical knowledge in a technology that is shaping 
 
 OUTPUT:
 
+<img width="393" height="118" alt="Image" src="https://github.com/user-attachments/assets/c5ce1919-253b-4b8e-80de-81dd9d3e0954" />
